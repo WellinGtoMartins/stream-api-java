@@ -5,38 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b17d743f-0198-40c1-84ff-8fa38ce647c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/src/Desafio9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stream/stream.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optional/optional.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optional/src/Empty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optional/src/Get.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optional/src/IfPresent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optional/src/IsEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optional/src/IsPresent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optional/src/Of.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optional/src/OfNullable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optional/src/OrElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optional/src/OrElseGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optional/src/OrElseThrow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binaryoperator/BinaryOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/stream/src/binaryoperator/BinaryOperatorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/consumer/ConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/stream/src/consumer/ConsumerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/function/FunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/stream/src/function/FunctionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predicate/PredicateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/stream/src/predicate/PredicateExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/supplier/SupplierExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/stream/src/supplier/SupplierExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,67 +45,67 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;zulu-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/Java/jre1.8.0_361/bin/visualvm_216/bin/visualvm.exe&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/welli/IdeaProjects/stream_api_java/stream/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "zulu-17",
+    "last_opened_file_path": "C:/Program Files/Java/jre1.8.0_361/bin/visualvm_216/bin/visualvm.exe",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/welli/IdeaProjects/stream_api_java/optional/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Desafio19">
-    <configuration name="Desafio14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafio14" />
-      <module name="desafios" />
+}]]></component>
+  <component name="RunManager" selected="Application.IfPresent">
+    <configuration name="Get" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Get" />
+      <module name="optional" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Desafio16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafio16" />
-      <module name="desafios" />
+    <configuration name="IfPresent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfPresent" />
+      <module name="optional" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Desafio17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafio17" />
-      <module name="desafios" />
+    <configuration name="OrElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrElse" />
+      <module name="optional" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Desafio18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafio18" />
-      <module name="desafios" />
+    <configuration name="OrElseGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrElseGet" />
+      <module name="optional" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Desafio19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafio19" />
-      <module name="desafios" />
+    <configuration name="OrElseThrow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrElseThrow" />
+      <module name="optional" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Desafio19" />
-        <item itemvalue="Application.Desafio18" />
-        <item itemvalue="Application.Desafio14" />
-        <item itemvalue="Application.Desafio17" />
-        <item itemvalue="Application.Desafio16" />
+        <item itemvalue="Application.IfPresent" />
+        <item itemvalue="Application.OrElseThrow" />
+        <item itemvalue="Application.OrElseGet" />
+        <item itemvalue="Application.OrElse" />
+        <item itemvalue="Application.Get" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +119,7 @@
       <updated>1694477293697</updated>
       <workItem from="1694477294717" duration="4511000" />
       <workItem from="1694562122214" duration="7096000" />
-      <workItem from="1694640984819" duration="7935000" />
+      <workItem from="1694640984819" duration="11286000" />
     </task>
     <servers />
   </component>
@@ -157,6 +138,11 @@
           <url>file://$PROJECT_DIR$/desafios/src/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/optional/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
