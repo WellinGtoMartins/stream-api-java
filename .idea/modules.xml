@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/desafios/desafios.iml" filepath="$PROJECT_DIR$/desafios/desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream/stream.iml" filepath="$PROJECT_DIR$/stream/stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/stream_api_java.iml" filepath="$PROJECT_DIR$/stream_api_java.iml" />
     </modules>
   </component>
